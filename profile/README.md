@@ -21,7 +21,7 @@ Mutsuri is a student-run team focused on designing and developing browser-based 
 - Simple trading system  
 - Lightweight and responsive design  
 
-Play it soon at [mutsuri.me](https://mutsuri.me)
+Play it soon at [mutsuri.me](https://faunaex.mutsuri.me)
 
 ---
 
